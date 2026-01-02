@@ -1,8 +1,11 @@
 #plot {
   color: rgb(251, 2, 2);
+  font-family: "Times New Roman", Times, serif;
 }
 #title {
   color: gold;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bolder;
 }
 #goal {
   color: blue;
